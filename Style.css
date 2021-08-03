@@ -5,7 +5,9 @@ body{
     margin-top: 60px;
     background-color: antiquewhite;
 }
-
+#header{
+    background-color: coral;
+}
 #content{
     padding-top: 15px;
     color: black;
