@@ -18,3 +18,8 @@ nav , h1{
     color: black;
     text-align: center;
 }
+
+#Wat , #Face, #Inst, #Tiktok{
+    border: 5px solid fuchsia;
+    padding: 20px;
+}
