@@ -1,4 +1,8 @@
+body{
+    background-image: url(https://suez.azureedge.net/-/media/suez-latam/images/header/protegeroceanos.jpg?h=806&la=es&w=1433&v=1&d=20180205T131401Z&crop=1&hash=8AEE167129266BEAEB61E86E1D78401114BE2DD1);
+}
 #CompletePage{
+    margin-top: 60px;
     background-color: antiquewhite;
 }
 
