@@ -4,6 +4,10 @@
 
 #content{
     padding-top: 15px;
-    color: blueviolet;
-    font-family: Arial, Helvetica, sans-serif;
+    color: lawngreen;
+
+}
+nav , h1{
+    padding: 0%;
+    margin: 0%;
 }
